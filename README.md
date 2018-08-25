@@ -1,4 +1,4 @@
-# Aledade Analytics Assignment
+# Analytics Assignment
 
 **Author:** Nicholas Scherrer
 **Date:** 8/24/2018
